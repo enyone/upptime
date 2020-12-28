@@ -6,21 +6,27 @@ repo: upptime # Your Github repository name
 sites:
   - name: Live Results
     url: http://chrono.live
+  - name: Customer support portal
+    url: https://support.enymind.fi
+  - name: Web site
+    url: http://www.enymind.com
+  - name: Chrono Cloud 2
+    url: $HEARTBEAT_URL
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: up.enymind.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.enymind.com/public/images/enymind_logo_bare_64.png
+  name: System status
+  introTitle: Enymind system status
+  introMessage: See below the operational status of our systems.
   navbar:
-    - title: Status
+    - title: System status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Enymind
+      href: http://www.enymind.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
