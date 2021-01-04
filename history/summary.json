@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 594,
     "timeDay": 476,
-    "timeWeek": 594,
+    "timeWeek": 573,
     "timeMonth": 594,
     "timeYear": 594,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://support.enymind.fi",
     "icon": "https://favicons.githubusercontent.com/support.enymind.fi",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1303,
     "timeDay": 955,
-    "timeWeek": 1303,
+    "timeWeek": 1306,
     "timeMonth": 1303,
     "timeYear": 1303,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "Web site",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1392,
     "timeDay": 1387,
-    "timeWeek": 1392,
+    "timeWeek": 1338,
     "timeMonth": 1392,
     "timeYear": 1392,
     "dailyMinutesDown": {}
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 682,
     "timeDay": 571,
-    "timeWeek": 682,
+    "timeWeek": 658,
     "timeMonth": 682,
     "timeYear": 682,
     "dailyMinutesDown": {}
