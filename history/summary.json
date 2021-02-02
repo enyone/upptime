@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/support.enymind.fi",
     "slug": "customer-support-portal",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.68%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.03%",
     "time": 1017,
     "timeDay": 1036,
     "timeWeek": 961,
@@ -63,9 +63,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +74,8 @@
     "timeWeek": 564,
     "timeMonth": 547,
     "timeYear": 571,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-02": 0
+    }
   }
 ]
