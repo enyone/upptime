@@ -45,9 +45,9 @@
     "url": "http://www.enymind.com",
     "icon": "https://favicons.githubusercontent.com/www.enymind.com",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +56,18 @@
     "timeWeek": 1376,
     "timeMonth": 1381,
     "timeYear": 1310,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-31": 0
+    }
   },
   {
     "name": "Chrono Cloud 2",
     "url": "$HEARTBEAT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -75,6 +77,7 @@
     "timeMonth": 652,
     "timeYear": 614,
     "dailyMinutesDown": {
+      "2021-07-31": 0,
       "2021-02-02": 30
     }
   }
