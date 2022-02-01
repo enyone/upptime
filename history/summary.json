@@ -40,9 +40,9 @@
     "url": "http://www.enymind.com",
     "icon": "https://favicons.githubusercontent.com/www.enymind.com",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1361,
     "timeMonth": 1444,
     "timeYear": 1372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   },
   {
     "name": "Chrono Cloud 2",
