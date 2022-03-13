@@ -4,9 +4,9 @@
     "url": "http://chrono.live",
     "icon": "https://favicons.githubusercontent.com/chrono.live",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 627,
     "timeMonth": 533,
     "timeYear": 500,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Customer support portal",
     "url": "https://support.enymind.fi",
     "icon": "https://favicons.githubusercontent.com/support.enymind.fi",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1441,
     "timeMonth": 1134,
     "timeYear": 1067,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Web site",
     "url": "http://www.enymind.com",
     "icon": "https://favicons.githubusercontent.com/www.enymind.com",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 1680,
     "timeMonth": 1441,
     "timeYear": 1397,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-13": 0
+    }
   },
   {
     "name": "Chrono Cloud 2",
