@@ -61,9 +61,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +72,8 @@
     "timeWeek": 796,
     "timeMonth": 698,
     "timeYear": 713,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-16": 0
+    }
   }
 ]
