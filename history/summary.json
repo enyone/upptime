@@ -63,17 +63,19 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
+    "time": 701,
     "timeDay": 820,
     "timeWeek": 705,
     "timeMonth": 704,
     "timeYear": 690,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-05": 0
+    }
   }
 ]
