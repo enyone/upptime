@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 524,
-    "timeDay": 436,
-    "timeWeek": 524,
-    "timeMonth": 604,
-    "timeYear": 529,
+    "timeDay": 321,
+    "timeWeek": 508,
+    "timeMonth": 597,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1004,
-    "timeDay": 1197,
-    "timeWeek": 921,
-    "timeMonth": 1060,
-    "timeYear": 975,
+    "time": 1003,
+    "timeDay": 938,
+    "timeWeek": 937,
+    "timeMonth": 1049,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2022-05-29": 454,
       "2022-05-28": 952
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1448,
-    "timeDay": 1227,
-    "timeWeek": 1535,
-    "timeMonth": 1731,
-    "timeYear": 1462,
+    "time": 1447,
+    "timeDay": 1105,
+    "timeWeek": 1514,
+    "timeMonth": 1709,
+    "timeYear": 1460,
     "dailyMinutesDown": {
       "2023-01-25": 26
     }
@@ -64,16 +64,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 464,
-    "timeWeek": 693,
-    "timeMonth": 713,
-    "timeYear": 691,
+    "time": 700,
+    "timeDay": 455,
+    "timeWeek": 678,
+    "timeMonth": 701,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2023-03-05": 18
     }
