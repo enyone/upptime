@@ -22,18 +22,19 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 1000,
+    "time": 999,
     "timeDay": 713,
     "timeWeek": 976,
     "timeMonth": 927,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2023-04-22": 0,
       "2022-05-29": 454,
       "2022-05-28": 952
     }
