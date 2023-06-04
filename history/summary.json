@@ -4,19 +4,19 @@
     "url": "http://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 450,
-    "timeWeek": 517,
-    "timeMonth": 605,
+    "time": 539,
+    "timeDay": 576,
+    "timeWeek": 541,
+    "timeMonth": 608,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2023-06-04": 0
+      "2023-06-04": 8
     }
   },
   {
