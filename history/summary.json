@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 552,
-    "timeDay": 310,
-    "timeWeek": 572,
-    "timeMonth": 642,
-    "timeYear": 563,
+    "timeDay": 590,
+    "timeWeek": 537,
+    "timeMonth": 636,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1012,
-    "timeDay": 616,
-    "timeWeek": 830,
-    "timeMonth": 1129,
+    "timeDay": 989,
+    "timeWeek": 811,
+    "timeMonth": 1127,
     "timeYear": 1033,
     "dailyMinutesDown": {
       "2023-04-22": 247
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1540,
-    "timeDay": 1045,
-    "timeWeek": 1330,
-    "timeMonth": 1629,
-    "timeYear": 1587,
+    "timeDay": 1163,
+    "timeWeek": 1238,
+    "timeMonth": 1615,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2023-01-25": 26
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 719,
-    "timeDay": 581,
-    "timeWeek": 664,
-    "timeMonth": 731,
-    "timeYear": 718,
+    "time": 720,
+    "timeDay": 726,
+    "timeWeek": 648,
+    "timeMonth": 727,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2023-03-05": 18
     }
