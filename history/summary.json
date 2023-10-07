@@ -4,10 +4,10 @@
     "url": "http://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 555,
@@ -15,7 +15,9 @@
     "timeWeek": 689,
     "timeMonth": 680,
     "timeYear": 567,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-07": 1
+    }
   },
   {
     "name": "Customer support portal",
