@@ -4,10 +4,10 @@
     "url": "http://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 556,
@@ -15,17 +15,19 @@
     "timeWeek": 682,
     "timeMonth": 672,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-09": 1
+    }
   },
   {
     "name": "Customer support portal",
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1012,
@@ -34,6 +36,7 @@
     "timeMonth": 1028,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2023-10-09": 1,
       "2023-04-22": 247
     }
   },
@@ -42,9 +45,9 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -54,6 +57,7 @@
     "timeMonth": 1560,
     "timeYear": 1585,
     "dailyMinutesDown": {
+      "2023-10-09": 0,
       "2023-01-25": 26
     }
   },
@@ -62,9 +66,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +78,7 @@
     "timeMonth": 669,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2023-10-09": 0,
       "2023-03-05": 18
     }
   }
