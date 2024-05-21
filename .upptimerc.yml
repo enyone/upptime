@@ -5,7 +5,7 @@ repo: upptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Live Results
-    url: http://chrono.live
+    url: https://chrono.live
   - name: Customer support portal
     url: https://support.enymind.fi
   - name: Web site
