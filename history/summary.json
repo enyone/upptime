@@ -1,22 +1,22 @@
 [
   {
     "name": "Live Results",
-    "url": "http://chrono.live",
+    "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 552,
-    "timeDay": 335,
-    "timeWeek": 396,
-    "timeMonth": 476,
+    "time": 553,
+    "timeDay": 475,
+    "timeWeek": 423,
+    "timeMonth": 481,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2024-05-21": 0
+      "2024-05-21": 9
     }
   },
   {
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 991,
-    "timeDay": 650,
-    "timeWeek": 804,
-    "timeMonth": 895,
+    "time": 992,
+    "timeDay": 667,
+    "timeWeek": 789,
+    "timeMonth": 888,
     "timeYear": 961,
     "dailyMinutesDown": {}
   },
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1531,
-    "timeDay": 1458,
-    "timeWeek": 1438,
-    "timeMonth": 1405,
+    "time": 1530,
+    "timeDay": 1359,
+    "timeWeek": 1416,
+    "timeMonth": 1400,
     "timeYear": 1491,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 461,
-    "timeWeek": 550,
-    "timeMonth": 646,
-    "timeYear": 698,
+    "time": 700,
+    "timeDay": 526,
+    "timeWeek": 555,
+    "timeMonth": 645,
+    "timeYear": 697,
     "dailyMinutesDown": {}
   }
 ]
