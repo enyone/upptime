@@ -6,18 +6,16 @@
     "slug": "live-results",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
     "timeDay": 475,
     "timeWeek": 423,
     "timeMonth": 481,
     "timeYear": 544,
-    "dailyMinutesDown": {
-      "2024-05-21": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Customer support portal",
