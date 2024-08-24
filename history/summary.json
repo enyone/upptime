@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "95.73%",
-    "uptimeWeek": "99.39%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 692,
-    "timeDay": 5607,
-    "timeWeek": 3892,
-    "timeMonth": 2045,
+    "timeDay": 6122,
+    "timeWeek": 4091,
+    "timeMonth": 2085,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-08-24": 61
+      "2024-08-24": 63
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "customer-support-portal",
     "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1063,
-    "timeDay": 5785,
-    "timeWeek": 4007,
-    "timeMonth": 2213,
-    "timeYear": 1065,
+    "time": 1064,
+    "timeDay": 6345,
+    "timeWeek": 4200,
+    "timeMonth": 2243,
+    "timeYear": 1064,
     "dailyMinutesDown": {
-      "2024-08-24": 28
+      "2024-08-24": 40
     }
   },
   {
@@ -46,17 +46,17 @@
     "slug": "web-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 1596,
-    "timeDay": 5591,
-    "timeWeek": 4361,
-    "timeMonth": 2736,
-    "timeYear": 1580,
+    "timeDay": 5973,
+    "timeWeek": 4495,
+    "timeMonth": 2775,
+    "timeYear": 1579,
     "dailyMinutesDown": {
-      "2024-08-24": 47
+      "2024-08-24": 59
     }
   },
   {
@@ -64,17 +64,17 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "95.85%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
-    "time": 741,
-    "timeDay": 3741,
-    "timeWeek": 2362,
-    "timeMonth": 1290,
-    "timeYear": 725,
+    "time": 739,
+    "timeDay": 4270,
+    "timeWeek": 2492,
+    "timeMonth": 1311,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2024-08-24": 60
     }
