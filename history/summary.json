@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 682,
-    "timeDay": 5643,
-    "timeWeek": 3807,
-    "timeMonth": 1963,
-    "timeYear": 709,
+    "time": 692,
+    "timeDay": 5607,
+    "timeWeek": 3892,
+    "timeMonth": 2045,
+    "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-08-24": 62
+      "2024-08-24": 68
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "web-site",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 1586,
     "timeDay": 5602,
@@ -56,7 +56,7 @@
     "timeMonth": 2670,
     "timeYear": 1570,
     "dailyMinutesDown": {
-      "2024-08-24": 40
+      "2024-08-24": 47
     }
   },
   {
