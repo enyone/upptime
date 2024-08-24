@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 622,
-    "timeDay": 4946,
-    "timeWeek": 2656,
-    "timeMonth": 1319,
-    "timeYear": 633,
+    "time": 631,
+    "timeDay": 4961,
+    "timeWeek": 2855,
+    "timeMonth": 1425,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-08-24": 42
+      "2024-08-24": 47
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 996,
-    "timeDay": 4324,
-    "timeWeek": 2356,
-    "timeMonth": 1386,
-    "timeYear": 973,
+    "time": 1014,
+    "timeDay": 5438,
+    "timeWeek": 3041,
+    "timeMonth": 1636,
+    "timeYear": 997,
     "dailyMinutesDown": {
-      "2024-08-24": 7
+      "2024-08-24": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1530,
-    "timeDay": 5067,
-    "timeWeek": 3381,
-    "timeMonth": 2076,
-    "timeYear": 1497,
+    "time": 1541,
+    "timeDay": 5254,
+    "timeWeek": 3611,
+    "timeMonth": 2195,
+    "timeYear": 1510,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 6
     }
   },
   {
