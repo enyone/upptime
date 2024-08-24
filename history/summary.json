@@ -40,18 +40,20 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1486,
+    "time": 1484,
     "timeDay": 1008,
     "timeWeek": 1597,
     "timeMonth": 1442,
     "timeYear": 1437,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 0
+    }
   },
   {
     "name": "Chrono Cloud 2",
