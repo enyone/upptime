@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 3585,
-    "timeWeek": 1694,
-    "timeMonth": 965,
-    "timeYear": 599,
+    "time": 613,
+    "timeDay": 5066,
+    "timeWeek": 2475,
+    "timeMonth": 1224,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-08-24": 16
+      "2024-08-24": 21
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 968,
@@ -35,18 +35,20 @@
     "timeWeek": 939,
     "timeMonth": 958,
     "timeYear": 935,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Web site",
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1499,
     "timeDay": 3143,
@@ -54,7 +56,7 @@
     "timeMonth": 1661,
     "timeYear": 1457,
     "dailyMinutesDown": {
-      "2024-08-24": 9
+      "2024-08-24": 1
     }
   },
   {
@@ -64,9 +66,9 @@
     "slug": "chrono-cloud-2",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "96.70%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.26%",
+    "uptimeWeek": "99.47%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 714,
     "timeDay": 5059,
@@ -74,7 +76,7 @@
     "timeMonth": 980,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-08-24": 47
+      "2024-08-24": 54
     }
   }
 ]
