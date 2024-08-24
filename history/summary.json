@@ -4,10 +4,10 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 576,
@@ -15,7 +15,9 @@
     "timeWeek": 707,
     "timeMonth": 686,
     "timeYear": 574,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-24": 1
+    }
   },
   {
     "name": "Customer support portal",
@@ -40,19 +42,19 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1492,
+    "time": 1491,
     "timeDay": 3206,
     "timeWeek": 2073,
     "timeMonth": 1570,
     "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-08-24": 12
+      "2024-08-24": 0
     }
   },
   {
@@ -62,17 +64,15 @@
     "slug": "chrono-cloud-2",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
     "timeDay": 5059,
     "timeWeek": 1830,
     "timeMonth": 980,
     "timeYear": 691,
-    "dailyMinutesDown": {
-      "2024-08-24": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
