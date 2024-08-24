@@ -40,19 +40,19 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1484,
-    "timeDay": 1008,
-    "timeWeek": 1597,
-    "timeMonth": 1442,
-    "timeYear": 1437,
+    "time": 1492,
+    "timeDay": 3206,
+    "timeWeek": 2073,
+    "timeMonth": 1570,
+    "timeYear": 1448,
     "dailyMinutesDown": {
-      "2024-08-24": 7
+      "2024-08-24": 12
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 565,
-    "timeWeek": 727,
-    "timeMonth": 694,
-    "timeYear": 667,
+    "time": 714,
+    "timeDay": 5059,
+    "timeWeek": 1830,
+    "timeMonth": 980,
+    "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 6
     }
   }
 ]
