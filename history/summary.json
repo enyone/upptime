@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "96.68%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.03%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 649,
+    "time": 650,
     "timeDay": 5663,
     "timeWeek": 3395,
     "timeMonth": 1660,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2024-08-24": 47
+      "2024-08-24": 42
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 1549,
-    "timeDay": 5146,
-    "timeWeek": 3667,
-    "timeMonth": 2254,
-    "timeYear": 1517,
+    "time": 1563,
+    "timeDay": 5629,
+    "timeWeek": 4055,
+    "timeMonth": 2445,
+    "timeYear": 1538,
     "dailyMinutesDown": {
-      "2024-08-24": 21
+      "2024-08-24": 27
     }
   },
   {
