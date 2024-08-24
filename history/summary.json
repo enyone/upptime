@@ -4,10 +4,10 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 595,
@@ -16,7 +16,7 @@
     "timeMonth": 965,
     "timeYear": 599,
     "dailyMinutesDown": {
-      "2024-08-24": 15
+      "2024-08-24": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1500,
-    "timeDay": 3964,
-    "timeWeek": 2451,
-    "timeMonth": 1692,
-    "timeYear": 1459,
+    "time": 1499,
+    "timeDay": 3143,
+    "timeWeek": 2274,
+    "timeMonth": 1661,
+    "timeYear": 1457,
     "dailyMinutesDown": {
-      "2024-08-24": 1
+      "2024-08-24": 9
     }
   },
   {
@@ -64,9 +64,9 @@
     "slug": "chrono-cloud-2",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 714,
     "timeDay": 5059,
@@ -74,7 +74,7 @@
     "timeMonth": 980,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2024-08-24": 39
+      "2024-08-24": 47
     }
   }
 ]
