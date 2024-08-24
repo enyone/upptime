@@ -4,9 +4,9 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "95.73%",
+    "uptimeDay": "95.70%",
     "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
@@ -26,9 +26,9 @@
     "slug": "customer-support-portal",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1071,
     "timeDay": 6215,
@@ -36,7 +36,7 @@
     "timeMonth": 2413,
     "timeYear": 1088,
     "dailyMinutesDown": {
-      "2024-08-24": 33
+      "2024-08-24": 27
     }
   },
   {
