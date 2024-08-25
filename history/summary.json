@@ -48,9 +48,9 @@
     "slug": "web-site",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "74.98%",
-    "uptimeWeek": "96.43%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "73.62%",
+    "uptimeWeek": "96.23%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.93%",
     "time": 1794,
     "timeDay": 6526,
@@ -58,7 +58,7 @@
     "timeMonth": 4153,
     "timeYear": 1854,
     "dailyMinutesDown": {
-      "2024-08-25": 297,
+      "2024-08-25": 316,
       "2024-08-24": 62
     }
   },
@@ -67,9 +67,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "88.06%",
+    "uptimeDay": "88.05%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
