@@ -4,10 +4,10 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "87.07%",
-    "uptimeWeek": "98.15%",
+    "uptimeDay": "86.95%",
+    "uptimeWeek": "98.14%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.96%",
     "time": 770,
@@ -16,7 +16,7 @@
     "timeMonth": 2818,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2024-08-25": 124,
+      "2024-08-25": 126,
       "2024-08-24": 61
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "94.24%",
-    "uptimeWeek": "99.18%",
+    "uptimeDay": "94.16%",
+    "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 1159,
@@ -37,7 +37,7 @@
     "timeMonth": 3135,
     "timeYear": 1210,
     "dailyMinutesDown": {
-      "2024-08-25": 55,
+      "2024-08-25": 56,
       "2024-08-24": 27
     }
   },
@@ -48,9 +48,9 @@
     "slug": "web-site",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "85.55%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "85.06%",
+    "uptimeWeek": "97.87%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
     "time": 1701,
     "timeDay": 6115,
@@ -58,7 +58,7 @@
     "timeMonth": 3611,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2024-08-25": 146,
+      "2024-08-25": 153,
       "2024-08-24": 62
     }
   },
@@ -69,9 +69,9 @@
     "slug": "chrono-cloud-2",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "89.20%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.72%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 786,
     "timeDay": 3909,
@@ -79,7 +79,7 @@
     "timeMonth": 1744,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2024-08-25": 96,
+      "2024-08-25": 103,
       "2024-08-24": 61
     }
   }
