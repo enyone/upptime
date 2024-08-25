@@ -6,9 +6,9 @@
     "slug": "live-results",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 730,
     "timeDay": 6221,
@@ -16,7 +16,7 @@
     "timeMonth": 2404,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2024-08-24": 67
+      "2024-08-24": 61
     }
   },
   {
@@ -45,17 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "95.77%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.99%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
     "time": 1608,
     "timeDay": 5907,
     "timeWeek": 4527,
     "timeMonth": 2831,
     "timeYear": 1588,
     "dailyMinutesDown": {
+      "2024-08-25": 35,
       "2024-08-24": 62
     }
   },
@@ -66,17 +67,18 @@
     "slug": "chrono-cloud-2",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "95.85%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.98%",
     "time": 745,
     "timeDay": 4330,
     "timeWeek": 2661,
     "timeMonth": 1405,
     "timeYear": 735,
     "dailyMinutesDown": {
-      "2024-08-24": 60
+      "2024-08-25": 35,
+      "2024-08-24": 61
     }
   }
 ]
