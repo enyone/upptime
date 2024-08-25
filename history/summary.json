@@ -4,19 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "90.80%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.71%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
-    "time": 740,
+    "time": 741,
     "timeDay": 6139,
     "timeWeek": 4509,
     "timeMonth": 2466,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2024-08-25": 71,
+      "2024-08-25": 72,
       "2024-08-24": 61
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1071,
@@ -37,6 +37,7 @@
     "timeMonth": 2413,
     "timeYear": 1088,
     "dailyMinutesDown": {
+      "2024-08-25": 1,
       "2024-08-24": 27
     }
   },
