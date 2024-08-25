@@ -45,9 +45,9 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "89.93%",
+    "uptimeDay": "89.89%",
     "uptimeWeek": "98.56%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
@@ -57,7 +57,7 @@
     "timeMonth": 3533,
     "timeYear": 1680,
     "dailyMinutesDown": {
-      "2024-08-25": 83,
+      "2024-08-25": 84,
       "2024-08-24": 62
     }
   },
@@ -66,9 +66,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "91.68%",
+    "uptimeDay": "91.67%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
