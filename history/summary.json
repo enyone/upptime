@@ -77,9 +77,9 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -89,6 +89,7 @@
     "timeMonth": 789,
     "timeYear": 755,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-08-13": 409,
       "2025-08-12": 46,
       "2025-07-25": 661
