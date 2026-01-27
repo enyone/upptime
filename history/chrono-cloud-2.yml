@@ -1,7 +1,7 @@
 url: $HEARTBEAT_URL
 status: up
 code: 200
-responseTime: 968
-lastUpdated: 2026-01-26T23:16:20.207Z
+responseTime: 751
+lastUpdated: 2026-01-27T23:15:52.052Z
 startTime: 2020-12-28T08:41:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
