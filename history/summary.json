@@ -4,18 +4,19 @@
     "url": "https://chrono.live",
     "icon": "https://icons.duckduckgo.com/ip3/chrono.live.ico",
     "slug": "live-results",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 717,
+    "time": 718,
     "timeDay": 1023,
     "timeWeek": 759,
     "timeMonth": 742,
     "timeYear": 725,
     "dailyMinutesDown": {
+      "2026-01-28": 1,
       "2025-10-26": 466,
       "2025-07-28": 40
     }
@@ -25,10 +26,10 @@
     "url": "https://support.enymind.fi",
     "icon": "https://icons.duckduckgo.com/ip3/support.enymind.fi.ico",
     "slug": "customer-support-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.51%",
     "time": 976,
@@ -37,6 +38,7 @@
     "timeMonth": 1038,
     "timeYear": 975,
     "dailyMinutesDown": {
+      "2026-01-28": 1,
       "2025-12-11": 1296,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -59,9 +61,9 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -70,7 +72,9 @@
     "timeWeek": 1621,
     "timeMonth": 1601,
     "timeYear": 1558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-28": 0
+    }
   },
   {
     "name": "Chrono Cloud 2",
