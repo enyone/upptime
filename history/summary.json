@@ -63,19 +63,20 @@
     "url": "http://www.enymind.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.enymind.com.ico",
     "slug": "web-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.91%",
-    "time": 1545,
+    "time": 1546,
     "timeDay": 1202,
     "timeWeek": 1548,
     "timeMonth": 1566,
     "timeYear": 1549,
     "dailyMinutesDown": {
-      "2026-01-28": 464
+      "2026-01-28": 464,
+      "2026-06-04": 5
     }
   },
   {
@@ -83,13 +84,13 @@
     "url": "$HEARTBEAT_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chrono-cloud-2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 753,
+    "time": 754,
     "timeDay": 686,
     "timeWeek": 703,
     "timeMonth": 711,
@@ -101,7 +102,8 @@
       "2026-03-01": 852,
       "2026-02-28": 1143,
       "2026-03-03": 463,
-      "2026-03-02": 86
+      "2026-03-02": 86,
+      "2026-06-04": 0
     }
   }
 ]
